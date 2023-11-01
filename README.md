@@ -1,7 +1,8 @@
 Problem Definition:
                      The problem we aim to address is the need for an improved movie and TV show recommendation system. Existing platforms like IMDb provide basic recommendations based on user ratings and genre preferences. However, these recommendations often lack personalization and depth, leading to user dissatisfaction and missed opportunities for discovering content they would enjoy.
 
-Design Thinking Approach:                                                                                                   1. Empathize: Understand the Users
+Design Thinking Approach:                                                                                                  
+1. Empathize: Understand the Users
    - Conduct user interviews, surveys, and data analysis to gain insights into what users find lacking in current recommendation systems.
    - Identify common pain points, such as generic recommendations, limited diversity in content suggestions, and difficulty in discovering hidden gems.
  
